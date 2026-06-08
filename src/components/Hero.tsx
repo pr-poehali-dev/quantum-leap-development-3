@@ -26,9 +26,10 @@ export default function Hero() {
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
-        <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ГРМ
-        </h1>
+        <h1 className="text-5xl md:text-7xl lg:text-8xl tracking-tight mb-6 font-normal">Основные виды работ при ТО ГРМ 
+Ежедневное обслуживание (ЕО). После прогрева двигателя при контрольном осмотре проверяют отсутствие стуков при различной частоте коленчатого вала. Также очищают двигатель от внешних загрязнений. 
+
+</h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
           Профессиональное техническое обслуживание газораспределительного механизма — точно, надёжно, в срок
         </p>
