@@ -19,18 +19,18 @@ export default function Hero() {
         className="absolute inset-0 w-full h-full"
       >
         <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
+          src="https://cdn.poehali.dev/projects/c058e431-3e8c-41bb-92c7-da00acb9c811/files/96c8f874-d7a2-42a8-b5e4-99ab4f8696fe.jpg"
+          alt="Двигатель автомобиля, ГРМ"
           className="w-full h-full object-cover"
         />
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
-          ОТКРОЙ
+          ГРМ
         </h1>
         <p className="text-lg md:text-xl max-w-2xl mx-auto px-6 opacity-90">
-          Исследуй границы дизайна с иммерсивным параллакс-эффектом
+          Профессиональное техническое обслуживание газораспределительного механизма — точно, надёжно, в срок
         </p>
       </div>
     </div>
