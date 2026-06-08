@@ -11,9 +11,7 @@ export default function Header({ className }: HeaderProps) {
           <a
             href="#services"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
-          >
-            Услуги
-          </a>
+          >.</a>
           <a
             href="#contact"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
