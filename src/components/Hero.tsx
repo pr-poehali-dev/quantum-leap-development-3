@@ -26,7 +26,7 @@ export default function Hero() {
       </motion.div>
 
       <div className="relative z-10 text-center text-white">
-        <h1 className="md:text-7xl lg:text-8xl tracking-tight font-light my-0 text-5xl text-center">Основные виды работ при ТО ГРМ 
+        <h1 className="md:text-7xl lg:text-8xl tracking-tight font-light my-0 text-center text-2xl">Основные виды работ при ТО ГРМ 
 Ежедневное обслуживание (ЕО). После прогрева двигателя при контрольном осмотре проверяют отсутствие стуков при различной частоте коленчатого вала. Также очищают двигатель от внешних загрязнений. 
 
 </h1>
